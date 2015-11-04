@@ -4,7 +4,7 @@ var server = new Hapi.Server();
 
 server.connection({
   host: 'localhost',
-  port: 3000
+  port: 8000
 })
 
 server.route({
