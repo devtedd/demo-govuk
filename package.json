@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devtedd/demo/issues"
   },
-  "homepage": "https://github.com/devtedd/demo#readme"
+  "homepage": "https://github.com/devtedd/demo#readme",
+  "dependencies": {
+    "hapi": "^11.0.5"
+  }
 }
