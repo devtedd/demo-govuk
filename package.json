@@ -18,5 +18,8 @@
   "homepage": "https://github.com/devtedd/demo#readme",
   "dependencies": {
     "hapi": "^11.0.5"
+  },
+  "engines": {
+    "node": "4.2.2"
   }
 }
