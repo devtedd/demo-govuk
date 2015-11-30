@@ -1,2 +1,1 @@
 cp assets/html public/html -r
-cp assets/images public/images -r
