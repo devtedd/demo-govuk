@@ -1,0 +1,1 @@
+browserify assets/javascripts/index.js -d | exorcist public/javascripts/index.js.map > public/javascripts/index.js
