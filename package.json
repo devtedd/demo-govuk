@@ -10,7 +10,7 @@
     "build:css": "bin/build-css",
     "build:js": "bin/build-js",
     "build": "npm run copy && npm run build:js",
-    "heroku" : "npm run build && npm run start"
+    "postinstall" : "npm run build && npm run start"
   },
   "repository": {
     "type": "git",
