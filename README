@@ -11,3 +11,7 @@ set up dev and heroku config to switch between mongolabs and local mongo databas
 set up a view engine, react, angular, handlebars?
 set up hapi logging
 set up hapi error handling.
+
+Stuff to prototype
+#react templating
+#authentication
