@@ -1,16 +1,17 @@
-Hapi Skeleton Application
+# Basic node hapi.js application
 
 The idea of this application is to provide a good base application that I can use for building further applications on top of.
 
 Providing only the very basics.
 
-This app is installed on heroku at https://immense-forest-4171.herokuapp.com/
+Templating provided by handlebars
 
-#TODO list
-set up dev and heroku config to switch between mongolabs and local mongo database, based on the best practice blog on heroku
-set up a view engine, react, angular, handlebars?
-set up hapi error handling.
+Server logs provided by good
 
-Stuff to prototype
-#react templating
-#authentication
+Currently installed on heroku at https://calm-savannah-7428.herokuapp.com/
+
+For the time being bootstrap has been used for dummy content.
+
+### Other stuff to add:
+1. Authentication
+2. Database
