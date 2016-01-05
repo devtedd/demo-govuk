@@ -4,7 +4,8 @@
   "description": "This is a new git repo",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js -i 0",
+    "start": "node index.js",
+    "pm2": "pm2 start index.js -i 0",
     "test": "echo \"Error: no test specified\" && exit 1",
     "copy": "bin/clean-public && bin/copy-assets",
     "build:css": "bin/build-css",
