@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/devtedd/demo#readme",
   "dependencies": {
+    "boom": "^3.1.1",
     "bootstrap": "3.3.6",
     "browserify": "12.0.1",
     "exorcist": "0.4.0",
