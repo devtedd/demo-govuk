@@ -9,7 +9,6 @@ This app is installed on heroku at https://immense-forest-4171.herokuapp.com/
 #TODO list
 set up dev and heroku config to switch between mongolabs and local mongo database, based on the best practice blog on heroku
 set up a view engine, react, angular, handlebars?
-set up hapi logging
 set up hapi error handling.
 
 Stuff to prototype
