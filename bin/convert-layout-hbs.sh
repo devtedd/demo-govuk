@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cp node_modules/govuk_template_mustache/views/layouts/govuk_template.html views/layout/layout.html
 sed -i 's/{{{ afterHeader }}}/{{> afterHeader }}/g' views/layout/layout.html
 sed -i 's/{{{ bodyEnd }}}/{{> bodyEnd }}/g' views/layout/layout.html
 sed -i 's/{{{ bodyStart }}}/{{> bodyStart }}/g' views/layout/layout.html
