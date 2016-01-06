@@ -1,1 +1,5 @@
-rm -rf public && mkdir public && mkdir public/javascripts && mkdir public/stylesheets 
+rm -rf public
+mkdir public
+mkdir public/javascripts
+mkdir public/stylesheets
+mkdir public/images
