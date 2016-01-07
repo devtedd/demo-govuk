@@ -6,11 +6,24 @@ Providing only the very basics.
 
 This relies on the govuk packages at : https://github.com/alphagov/govuk_frontend_toolkit and https://github.com/alphagov/govuk_template_mustache
 
-Added https://github.com/alphagov/govuk_elements as a dependency from where the css is obtained, however from pull request https://github.com/alphagov/govuk_elements/pull/156 it looks like an npm depency will be created soon.
+Added https://github.com/alphagov/govuk_elements tag v.1.0.0 as a dependency from where the css is obtained, however from pull request https://github.com/alphagov/govuk_elements/pull/156 it looks like an npm depency will be created soon.
+
+
 
 Templating provided by handlebars
 
 Server logs provided by good
+
+## Prerequisites
+Node 4.2.4
+
+## Installation
+
+npm install
+
+## App start
+
+npm run start
 
 Currently installed on heroku at https://still-shelf-6288.herokuapp.com/
 
