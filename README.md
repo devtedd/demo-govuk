@@ -6,7 +6,7 @@ Providing only the very basics.
 
 This relies on the govuk packages at : https://github.com/alphagov/govuk_frontend_toolkit and https://github.com/alphagov/govuk_template_mustache
 
-It also relies on the sass in the project https://github.com/alphagov/govuk_elements but this is not available as an npm dependency at the moment so this has to be manually pulled down and the sass files copied accross to the project when required.
+Added https://github.com/alphagov/govuk_elements as a dependency from where the css is obtained, however from pull request https://github.com/alphagov/govuk_elements/pull/156 it looks like an npm depency will be created soon.
 
 Templating provided by handlebars
 
