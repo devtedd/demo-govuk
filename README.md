@@ -20,11 +20,13 @@ Node 4.2.4
 
 ## Installation
 
-npm install
+Do `git clone https://github.com/devtedd/demo-govuk.git`
+
+`npm install`
 
 ## App start
 
-npm run start
+`npm run start`
 
 Currently installed on heroku at https://still-shelf-6288.herokuapp.com/
 
