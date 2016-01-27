@@ -4,9 +4,10 @@ The idea of this application is to provide a good base application that I can us
 
 Providing only the very basics.
 
-This relies on the govuk packages at : https://github.com/alphagov/govuk_frontend_toolkit and https://github.com/alphagov/govuk_template_mustache
+This relies on the govuk packages at : https://github.com/alphagov/govuk_frontend_toolkit and https://github.com/alphagov/govuk_template_mustache and https://github.com/alphagov/govuk_elements
 
-Added https://github.com/alphagov/govuk_elements tag v.1.0.0 as a dependency from where the css is obtained, however from pull request https://github.com/alphagov/govuk_elements/pull/156 it looks like an npm depency will be created soon.
+
+Originally had `"govuk-elements": "git+https://github.com/alphagov/govuk_elements.git#v.1.0.0",` to install elements from git, but the project is now held on npm for sass.
 
 
 
